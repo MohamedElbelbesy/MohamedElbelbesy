@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elbelbesy</h1>
-<h3 align="center">A Full Stack .Net Developert</h3>
 
  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
@@ -12,6 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.Net%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   
 </p> 
+
 - 🏢 I'm a Software Engineer Full Stack .Net Developer 
 - 👨‍💻 As ITI graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 Interested in Web API/Angular and Search
@@ -19,7 +19,7 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://mohamedelbelbesy.github.io/myportofilo/index.html# to see some of the projects I've worked on.
 ### Connect with Me :
-<a www.linkedin.com/in/mohamed-elbelbesy-b003b5267" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/mohamed-elbelbesy-b003b5267" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007990660829&locale=ar_AR" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:mohamedelbelbesy893@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 <a href="https://wa.me/201110816530" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesyy-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
