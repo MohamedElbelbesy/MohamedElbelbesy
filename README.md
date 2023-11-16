@@ -19,7 +19,7 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://mohamedelbelbesy.github.io/myportofilo/index.html# to see some of the projects I've worked on.
 ### Connect with Me :
-<a href="www.linkedin.com/in/mohamed-elbelbesy-b003b5267" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-elbelbesy-b003b5267/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007990660829&locale=ar_AR" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:mohamedelbelbesy893@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 <a href="https://wa.me/201110816530" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesyy-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
