@@ -8,8 +8,8 @@
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<p align="right">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.Net%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   
 </p> 
 - 🏢 I'm a Software Engineer Full Stack .Net Developer 
@@ -20,9 +20,9 @@
 - 👨‍💻 Check out my portfolio at https://mohamedelbelbesy.github.io/myportofilo/index.html# to see some of the projects I've worked on.
 ### Connect with Me :
 <a www.linkedin.com/in/mohamed-elbelbesy-b003b5267" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ana.alamier.52" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100007990660829&locale=ar_AR" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:mohamedelbelbesy893@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
-<a href="https://wa.me/201022682159" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesyy-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/201110816530" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesyy-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML">&nbsp;
