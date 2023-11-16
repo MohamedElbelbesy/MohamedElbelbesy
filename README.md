@@ -31,6 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+
 <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL">&nbsp;
 <img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL Server">&nbsp;
 <img src="https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91" alt="C#">&nbsp;
@@ -43,14 +44,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 ![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning%20-05122A?style=flat&logo=MachineLearning)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabdelaty-98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
+
+
 <a href="https://komarev.com/ghpvc/?username=mohamedabdelaty-98&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mohamedabdelaty-98&style=for-the-badge">
 </a>
