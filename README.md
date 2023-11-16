@@ -1,10 +1,56 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elbelbesy</h1>
-<h3 align="center">A passionate Full Stack .Net Developer from Egypt</h3>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-elbelbesy-b003b5267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-elbelbesy-b003b5267" height="30" width="40" /></a>
-</p>
+<h3 align="center">A Full Stack .Net Developert</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+ <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+
+
+
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  
+</p> 
+- 🏢 I'm a Software Engineer Full Stack .Net Developer 
+- 👨‍💻 As ITI graduate, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 Interested in Web API/Angular and Search
+- 💬 Ask me about my experience with C#, Web API, .NetCore, MVC,angular and SQL or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 Check out my portfolio at https://mohamedelbelbesy.github.io/myportofilo/index.html# to see some of the projects I've worked on.
+### Connect with Me :
+<a www.linkedin.com/in/mohamed-elbelbesy-b003b5267" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/ana.alamier.52" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:mohamedelbelbesy893@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesy-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://wa.me/201022682159" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elbelbesyy-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML">&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" alt="CSS">&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL">&nbsp;
+<img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL Server">&nbsp;
+<img src="https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91" alt="C#">&nbsp;
+<img src="https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="LINQ">&nbsp;
+<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="Entity Framework">&nbsp;
+<img src="https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="ASP.NET">&nbsp;
+<img src="https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="API">&nbsp;
+<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="MVC">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio">&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
+![MachineLearning](https://img.shields.io/badge/-MachineLearning%20-05122A?style=flat&logo=MachineLearning)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabdelaty-98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=mohamedabdelaty-98&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mohamedabdelaty-98&style=for-the-badge">
+</a>
